@@ -1,8 +1,8 @@
-\# AWS CI/CD and Application Monitoring Pipeline
+**\# AWS CI/CD and Application Monitoring Pipeline**
 
 
 
-\## Overview
+**\## Overview**
 
 
 
@@ -10,7 +10,7 @@ A hands-on DevOps/SRE portfolio project that demonstrates automated Python testi
 
 
 
-\## Architecture
+**\## Architecture**
 
 
 
@@ -22,7 +22,7 @@ The Flask application and health-monitoring script can also run locally for avai
 
 
 
-\## Technologies Used
+**\## Technologies Used**
 
 
 
@@ -42,7 +42,7 @@ The Flask application and health-monitoring script can also run locally for avai
 
 
 
-\## Features
+**\## Features**
 
 
 
@@ -64,7 +64,7 @@ The Flask application and health-monitoring script can also run locally for avai
 
 
 
-\## Application Endpoints
+**\## Application Endpoints**
 
 
 
@@ -78,7 +78,7 @@ The Flask application and health-monitoring script can also run locally for avai
 
 
 
-Example health response:
+**Example health response:**
 
 
 
@@ -90,11 +90,11 @@ Example health response:
 
 
 
-\## Run Locally
+**\## Run Locally**
 
 
 
-\### 1. Clone the repository
+**\### 1. Clone the repository**
 
 
 
@@ -112,7 +112,7 @@ Replace the placeholder with your actual GitHub repository URL.
 
 
 
-\### 2. Create and activate a virtual environment
+**\### 2. Create and activate a virtual environment**
 
 
 
@@ -129,8 +129,8 @@ venv\\Scripts\\activate
 ```
 
 
-
-\### 3. Install dependencies and run tests
+**
+\### 3. Install dependencies and run tests**
 
 
 
@@ -144,7 +144,7 @@ python -m pytest -v
 
 
 
-\### 4. Start the application
+**\### 4. Start the application**
 
 
 
@@ -160,7 +160,7 @@ Open `http://127.0.0.1:5000/health` in your browser.
 
 
 
-\### 5. Run the monitoring script
+**\### 5. Run the monitoring script**
 
 
 
@@ -180,7 +180,7 @@ The monitor checks the health endpoint every 10 seconds and writes timestamped r
 
 
 
-\## CI/CD Workflow
+**\## CI/CD Workflow**
 
 
 
@@ -194,7 +194,7 @@ The monitor checks the health endpoint every 10 seconds and writes timestamped r
 
 
 
-\## Deployment Status
+**\## Deployment Status**
 
 
 
@@ -202,7 +202,7 @@ The CodeDeploy configuration files and deployment scripts have been prepared. Au
 
 
 
-\## Future Improvements
+**\## Future Improvements**
 
 
 
@@ -218,7 +218,7 @@ The CodeDeploy configuration files and deployment scripts have been prepared. Au
 
 
 
-\## Learning Outcomes
+**\## Learning Outcomes**
 
 
 
