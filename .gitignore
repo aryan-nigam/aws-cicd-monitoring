@@ -1,7 +1,9 @@
 
+
 venv/
 __pycache__/
 .pytest_cache/
 *.py[cod]
 .env
 monitor.log
+monitor_history.csv
